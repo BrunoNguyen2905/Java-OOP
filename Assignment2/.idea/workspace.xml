@@ -5,9 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cee2c2-7094-460d-bb36-ea3443d400b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/Assignment1.1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Items.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/Assignment1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assign1ex3/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,46 +52,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Nhan/date.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#866#867#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -170,15 +163,15 @@
       <workItem from="1574612223384" duration="1189000" />
       <workItem from="1574615193600" duration="572000" />
       <workItem from="1575397249494" duration="655000" />
-      <workItem from="1575398885783" duration="253000" />
+      <workItem from="1575398885783" duration="1912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75904000" />
+    <option name="totallyTimeSpent" value="77563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5220049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="-14">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -240,7 +233,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="221">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />

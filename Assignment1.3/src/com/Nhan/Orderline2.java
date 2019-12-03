@@ -1,42 +1,100 @@
 package com.Nhan;
-import java.util.Scanner;
 
 public class Orderline2 {
-    private double totalPrice = 0;
-    public void process() {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("How many order lines the order has?");
-        int number = sc.nextInt();
-        Orderline[] items = new Orderline[number]; //array allocation
+    private String name;
+    private double price;
+    private int quantity;
 
-        for(int i = 0; i < number; i++){
-            sc.nextLine(); //skip the line break
-
-            items[i] = new Orderline(); //object creation
-            System.out.print("Name of the items?");
-            items[i].setName(sc.nextLine());
-            System.out.print("how many products?");
-            items[i].setQuantity(sc.nextDouble());
-            System.out.print("how much ?");
-            items[i].setPrice(sc.nextDouble());
-            totalPrice += items[i].getPrice()* items[i].getQuantity();
-        }
-
-        System.out.println("The product");
-        System.out.println("Name \t\tTotalPrice");
-        for(int i = 0; i < number; i++){
-            System.out.println(items[i].getName() + "\t" + "\t" +"\t" + String.format("%.2f", items[i].priceOfOrder()));
-        }
+    //date
+    private int d;
+    private int m;
+    private int y;
+    public String productName;
+    public int orderID;
 
 
 
-	       /* for(int t = 0; t < number; t++){
-	        	totalPrice += items[t].priceOfOrder();
-	        }
-	        */
+    public int getOrderID() {
+        return orderID;
+    }
 
-        System.out.print("\n");//line break
-        System.out.println("Total Price: " +"\t" + totalPrice);
+    public void setOrderID(int orderID) {
+        this.orderID = orderID;
+    }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getProductName() {
+        return productName;
+    }
+
+    public void setProductName(String productName) {
+        this.productName = productName;
+    }
+
+    public int getD() {
+        return d;
+    }
+
+    public void setD(int d) {
+        this.d = d;
+    }
+
+    public int getM() {
+        return m;
+    }
+
+    public void setM(int m) {
+        this.m = m;
+    }
+
+    public int getY() {
+        return y;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+    public void setQuantity(int quantity) {
+        this.quantity = quantity;
+    }
+
+    protected double priceOfOrder() {
+        return (price * quantity);
+    }
+
+    public Orderline2( String name, int orderID, int d, int m, int y) {
+        this.name = name;
+        this.orderID = orderID;
+        this.d = d;
+        this.m = m;
+        this.y = y;
+    }
+
+    public Orderline2 (String productName, double price, int quantity){
+        this.productName= productName;
+        this.price= price;
+        this.quantity = quantity;
     }
 }
