@@ -5,41 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cee2c2-7094-460d-bb36-ea3443d400b3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/Assignment1.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Items.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/Assignment1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign1ex3/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
