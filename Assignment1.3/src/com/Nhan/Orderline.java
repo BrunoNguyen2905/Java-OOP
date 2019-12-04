@@ -28,11 +28,7 @@ public class Orderline {
         for(int i = 0; i < number; i++){
             System.out.println(items[i].getName() + "\t" + "\t" + String.format("%.2f", items[i].priceOfOrder()));
         }
-
-	       /* for(int t = 0; t < number; t++){
-	        	totalPrice += items[t].priceOfOrder();
-	        }
-	        */
+	        
         System.out.print("\n");//line break
         System.out.println("Total Price: " +"\t" + totalPrice);
 
