@@ -20,6 +20,7 @@ public class Orderline {
             items[i].setQuantity(sc.nextDouble());
             System.out.print("how much ?");
             items[i].setPrice(sc.nextDouble());
+		//total price
             totalPrice += items[i].getPrice()* items[i].getQuantity();
         }
 
