@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="290bcb2c-cd7b-432b-aff4-eec739fb686e" name="Default Changelist" comment="" />
+    <list default="true" id="290bcb2c-cd7b-432b-aff4-eec739fb686e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment4.2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/src/com/Nhan/prism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/src/com/Nhan/prism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +58,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,12 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="244" />
     <option name="y" value="58" />
     <option name="width" value="1696" />
     <option name="height" value="1026" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -66,6 +83,7 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -122,14 +140,15 @@
       <workItem from="1574347409348" duration="609000" />
       <workItem from="1574399855346" duration="598000" />
       <workItem from="1574673092957" duration="10000" />
+      <workItem from="1575585999163" duration="5000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26585000" />
+    <option name="totallyTimeSpent" value="26590000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="244" y="58" width="1696" height="1026" extended-state="1" />
+    <frame x="244" y="58" width="1696" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />

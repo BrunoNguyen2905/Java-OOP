@@ -1,9 +1,9 @@
 package com.Nhan;
 
 public class prism {
-     double height;
-     double width;
-     double depth;
+     public double height;
+     public double width;
+     public double depth;
 
      public double volume (){
          return height*width*depth;
@@ -26,6 +26,9 @@ public class prism {
 }
 
 class solidPrism extends prism {
+
+
+    public double density;
     public double getDensity() {
         return density;
     }
@@ -34,9 +37,7 @@ class solidPrism extends prism {
         this.density = density;
     }
 
-    public double density;
-
-        public double massOfTheSolidPrism(){
+    public double massOfTheSolidPrism(){
             return volume() * density;
         }
 }

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="239b9093-3ba5-4842-9483-58dca03ed8cb" name="Default Changelist" comment="" />
+    <list default="true" id="239b9093-3ba5-4842-9483-58dca03ed8cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/src/com/Nhan/prism.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/src/com/Nhan/prism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +73,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -79,6 +92,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -86,9 +100,10 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,11 +162,12 @@
       <workItem from="1574673110389" duration="1649000" />
       <workItem from="1574711165149" duration="604000" />
       <workItem from="1574755573303" duration="96000" />
+      <workItem from="1575585975439" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31434000" />
+    <option name="totallyTimeSpent" value="31437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
