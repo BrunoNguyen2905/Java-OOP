@@ -7,26 +7,10 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        /*Room r1 = new Room();
-        r1.askData();
-        System.out.println(r1.toString());
-
-        Office of = new Office();
-        of.askInfo();
-        System.out.println(of.toString());
-
-        ClassRoom cl = new ClassRoom();
-        cl.askData1();
-        System.out.println(cl.toString());
-
-         */
 
 
-        /*
-        ArrayList<Room> office= new ArrayList<>();
-        ArrayList<Room> classroom= new ArrayList<>();
-        ArrayList<Room> other = new ArrayList<>();
-        */
+
+
         Scanner scanner = new Scanner(System.in);
         ArrayList<Room> rooms = new ArrayList<>();
         int choice, room;

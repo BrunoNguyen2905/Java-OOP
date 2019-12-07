@@ -54,11 +54,10 @@ public class Main {
         String artist = sc.next();
         System.out.println("--Sort duration of selected artist in ascending order: --");
         //create a new list only get artist name
-       List<musicTracks> track2 = tracks
-        .stream()
+       //List<musicTracks> track2 = tracks
+
+        tracks.stream()
                 .filter(a -> a.getArtist().equals(artist))
-                .collect(Collectors.toList());
-        track2.stream()
                 .sorted(Comparator.comparing(musicTracks::getDuration))
                  .forEach(s -> System.out.println(s.toString()));
         System.out.println("\n");

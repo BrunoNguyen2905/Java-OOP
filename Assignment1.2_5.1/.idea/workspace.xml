@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4080bd-0987-4780-b7ea-85b9dd20ee78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Nhan/prism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Nhan/prism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment3.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -66,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -78,7 +77,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -102,13 +100,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -160,17 +159,19 @@
       <workItem from="1574615203730" duration="534000" />
       <workItem from="1575407123613" duration="1075000" />
       <workItem from="1575584408429" duration="930000" />
+      <workItem from="1575631673138" duration="30000" />
+      <workItem from="1575641583273" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5938000" />
+    <option name="totallyTimeSpent" value="6008000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1696" height="1026" extended-state="7" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16198044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16564792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -208,8 +209,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/solidPrismImpl.java" />
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>

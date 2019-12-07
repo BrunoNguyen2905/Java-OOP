@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9e72fac-5aec-4c01-be3a-ab9605bc6a9d" name="Default Changelist" comment="" />
+    <list default="true" id="c9e72fac-5aec-4c01-be3a-ab9605bc6a9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework4/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Nhan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3_question3_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3_question3_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4/src/com/Nhan/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2125">
-              <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
+            <state relative-caret-position="238">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Nhan/Room.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+            <state relative-caret-position="811">
+              <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#907#908#0" expanded="true" />
@@ -51,21 +69,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/Nhan/roomData.java" />
-        <option value="$PROJECT_DIR$/src/com/Nhan/Main.java" />
         <option value="$PROJECT_DIR$/src/com/Nhan/Room.java" />
+        <option value="$PROJECT_DIR$/src/com/Nhan/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2694" />
-    <option name="y" value="27" />
-    <option name="width" value="878" />
-    <option name="height" value="1017" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -73,9 +95,10 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework3" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
@@ -126,14 +149,17 @@
       <workItem from="1572599533849" duration="3596000" />
       <workItem from="1572604724859" duration="2893000" />
       <workItem from="1572838098373" duration="625000" />
+      <workItem from="1575641513949" duration="1708000" />
+      <workItem from="1575723389981" duration="620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50733000" />
+    <option name="totallyTimeSpent" value="53061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -201,26 +227,26 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/Room.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        <state relative-caret-position="811">
+          <caret line="118" column="1" selection-start-line="118" selection-start-column="1" selection-end-line="118" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#907#908#0" expanded="true" />
             <element signature="e#942#943#0" expanded="true" />
             <element signature="e#1569#1570#0" expanded="true" />
             <element signature="e#1627#1628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2125">
-          <caret line="125" column="44" selection-start-line="125" selection-start-column="44" selection-end-line="125" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

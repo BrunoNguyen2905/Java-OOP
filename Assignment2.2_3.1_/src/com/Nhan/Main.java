@@ -1,5 +1,4 @@
 package com.Nhan;
-import java.lang.String;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -8,20 +7,19 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        date d1 = new date (8,11,2018);// integer
+        date d1 = new date(8, 11, 2018);// integer
         date d2 = new date();
-        date d3 = new date(15,9,1965);
+        date d3 = new date(15, 9, 1965);
         date d4 = new date("18.9.2019"); // type of string
-        date d5 = new date(18,9,2019);
+        date d5 = new date(18, 9, 2019);
         System.out.println(d1.toString());
         System.out.println(d2.toString());
-        System.out.println(d3.getD() +"."+ d3.getM()+ "."+ d3.getY());
+        System.out.println(d3.getD() + "." + d3.getM() + "." + d3.getY());
         System.out.println(d4.dateSplit());
         d5.equals(d2);
-        if(d5.equals(d2) == true){
+        if (d5.equals(d2) == true) {
             System.out.println("match");
-        }
-        else{
+        } else {
             System.out.println("Unmatch");
         }
         //ask from the user
@@ -34,13 +32,11 @@ public class Main {
         //compare
         d3.equals(user);
         // System.out.println(d3.equals(user));
-        if(d3.equals(user) == true){
+        if (d3.equals(user) == true) {
             System.out.println("Match");
-        }
-        else{
+        } else {
             System.out.println("Unmatch");
         }
-
 
 
         System.out.println("enter a month: ");
@@ -48,11 +44,12 @@ public class Main {
         System.out.println(date.getMonthNumber(monthh));
 
 
-        date d7 = new date(11,2,2019);
+        date d7 = new date(11, 2, 2019);
         System.out.println(d7.returnLongForm());
 
 
         //Assignment3.1
+
         ArrayList<date> Date = new ArrayList<>();
 
         Scanner input = new Scanner(System.in);
@@ -61,50 +58,51 @@ public class Main {
         int i;
         boolean empty = true;
 
-        while(input.hasNextLine()) {
 
-            String datee= input.nextLine();
-            if(datee.isEmpty()){
+        while (input.hasNextLine()) {
+            String datee = input.nextLine();
+            if (datee.isEmpty()) {
                 System.out.println("Stop adding!");
                 break;
-            }else {
-                Date.add(new date(datee)) ;
+            } else {
+                Date.add(new date(datee));
                 System.out.println("What is the day you want to add?");
                 empty = false;
             }
-            if(empty){
+            if (empty) {
                 System.out.println("No valid date");
             }
         }
         System.out.println("All the dates you have entered: \n ");
-        for(i =0; i < Date.size(); i++){
-            System.out.println(Date.get(i).getD()+"." + Date.get(i).getM()+ "."+ Date.get(i).getY());
+        for (i = 0; i < Date.size(); i++) {
+            System.out.println(Date.toString());
         }
 
-        while(true){
+
+        while (true) {
             System.out.println("The user give a date: ");
             String DATE = input.nextLine();
 
-            if (DATE.isEmpty()){
+            if (DATE.isEmpty()) {
                 System.out.println("Stop searching!");
                 break;
             }
             date a = new date(DATE);
             boolean check = false;
-            for(int j =0; j < Date.size(); j++){
-                if(a.equals(Date.get(j))){
-                    System.out.println("The index of the date is "+j);
+            for (int j = 0; j < Date.size(); j++) {
+                if (a.equals(Date.get(j))) {
+                    System.out.println("The index of the date is " + j);
                     check = true;
                     break;
                 }
             }
-            if(!check) System.out.println("Date not found"); // check == false
+            if (!check) System.out.println("Date not found"); // check == false
         }
 
-        while(true){
+        while (true) {
             System.out.println("What year you want to search: (Enter <=0  to stop searching!) ");
             int year = input.nextInt();
-            if(year <= 0){
+            if (year <= 0) {
                 System.out.println("Stop searching!");
                 boolean check = false;
                 break;
@@ -112,16 +110,17 @@ public class Main {
             }
             boolean check = true;
             //date YEAR = new date(year);
-            for(int j =0; j < Date.size(); j++){
-                if(year == Date.get(j).getY()){
+            for (int j = 0; j < Date.size(); j++) {
+                if (year == Date.get(j).getY()) {
                     System.out.println(Date.get(j).toString());
                     check = false;
                 }
             }
-            if(check) {
+            if (check) {
                 System.out.println("No valid year");
             }
         }
 
     }
+
 }
