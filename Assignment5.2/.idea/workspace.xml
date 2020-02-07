@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="290bcb2c-cd7b-432b-aff4-eec739fb686e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment1.2_5.1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/out/production/Assignment2.2_3.1_/com/Nhan/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2.2_3.1_/src/com/Nhan/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/Orderline3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/Orderline3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/date.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/out/production/Assignment4.1/com/Nhan/date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/Orderline3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/Orderline3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/date.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.1/src/com/Nhan/date.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/out/production/Assignment4.2/com/Nhan/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/out/production/Assignment4.2/com/Nhan/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/out/production/Assignment4.2/com/Nhan/print.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/out/production/Assignment4.2/com/Nhan/print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment4.2/src/com/Nhan/print.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment4.2/src/com/Nhan/print.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework3/src/com/Nhan/machineParts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework3/src/com/Nhan/machineParts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Nhan/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-272">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="187">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#761#762#0" expanded="true" />
                 <element signature="e#831#832#0" expanded="true" />
@@ -82,7 +91,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment1.2_5.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectJava_electricityConsumption" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,15 +148,17 @@
       <workItem from="1575585999163" duration="5000" />
       <workItem from="1575631717788" duration="623000" />
       <workItem from="1575641508219" duration="315000" />
+      <workItem from="1575847056887" duration="604000" />
+      <workItem from="1575930476815" duration="36000" />
+      <workItem from="1576691448688" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27528000" />
+    <option name="totallyTimeSpent" value="28208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="0" width="854" height="1017" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -215,21 +226,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Nhan/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#831#832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Nhan/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

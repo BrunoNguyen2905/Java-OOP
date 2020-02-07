@@ -11,7 +11,7 @@ public abstract class machineParts {
     public int getNumberInStock() {
         return numberInStock;
     }
-    public abstract double inventoryValue();
+    abstract public  double inventoryValue();
 
     public abstract String nameAndValue();
 

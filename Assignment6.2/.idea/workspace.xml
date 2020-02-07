@@ -2,53 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="064a1414-46cf-4604-bc9a-c9006ff637a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assign2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/Assignment1.1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Items.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/out/production/Assignment1.1/com/Nhan/Orderline2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Items.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.1/src/com/Nhan/Orderline2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/Assignment1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/CourseStudent2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/out/production/Assignment1/com/Nhan/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/CourseStudent2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment1.2/src/com/Nhan/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc (1).xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/Assign2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assign2/com/Nhan/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/out/production/Assign2/com/Nhan/date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/src/com/Nhan/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2/src/com/Nhan/date.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assign1ex3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment5.3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment6.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework4/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +21,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="204">
               <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,11 +59,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,7 +70,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,15 +77,11 @@
               <item name="Assignment6.2" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
-            <path>
-              <item name="Assignment6.2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 12 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -139,7 +89,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../assign1ex3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -195,16 +145,18 @@
       <workItem from="1573293073078" duration="1132000" />
       <workItem from="1575285178513" duration="643000" />
       <workItem from="1575397187742" duration="724000" />
+      <workItem from="1575726590994" duration="556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16338000" />
+    <option name="totallyTimeSpent" value="16894000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09754797" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.202407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -270,18 +222,18 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/Exercise2_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="204">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Exercise2_1.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Nhan/date.java">
       <provider selected="true" editor-type-id="text-editor">

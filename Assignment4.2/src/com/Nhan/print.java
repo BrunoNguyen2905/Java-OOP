@@ -14,7 +14,7 @@ public class print {
     public void displayDistribution(int value){
         Distribution d = distri;
         System.out.println("Frequency: "+ d.frequency(value));
-        System.out.println("Avaerage: " + d.average());
+        System.out.println("Average: " + d.average());
     }
 
 }

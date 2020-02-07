@@ -9,11 +9,6 @@ public class Orderline3 {
     private date OrderDate;
     private ArrayList<Orderline> lines = new ArrayList<>();
 
-
-
-
-
-
     public Orderline3( int id, String customerName, date OrderDate) {
         this.customerName = customerName;
         this.Id= id;
@@ -40,7 +35,8 @@ public class Orderline3 {
         sb.append("Order date: " + this.OrderDate + "\n");
         sb.append("Product\t\tPrice\tQuantity\tSum\n");
         for (Orderline l : this.lines) {
-            sb.append(l + "\n");
+           // sb.append(l + "\n");
+            sb.append(l.getName() + "\t\t" +l.getPrice() +"\t\t" +l.getQuantity() +"\t\t"+l.getSum()+"\n");//faster
         }
 
 

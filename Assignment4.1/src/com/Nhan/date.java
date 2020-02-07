@@ -91,7 +91,6 @@ public class date {
     }
 
 
-
     //exercise 2d
     //exercise 2e
     public static final  String[] MONTHNAMES = {"January", "February",
